@@ -1,4 +1,3 @@
-// import useData from "./useData";
 import { useQuery } from "@tanstack/react-query";
 import APIClient, { FetchedResponse } from "../services/api-client";
 import genres from "../data/genres";
